@@ -1,0 +1,2 @@
+Este texto se añadió al final del archivo usando el modo 'a'.
+El contenido previo no fue eliminado.

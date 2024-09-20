@@ -1,0 +1,2 @@
+Este archivo fue sobrescrito usando el modo 'w'.
+Todo el contenido previo fue eliminado.

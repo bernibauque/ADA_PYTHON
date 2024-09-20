@@ -1,0 +1,2 @@
+Este archivo fue creado con exito usando 'x'.
+Falla si ya existe el archivo.

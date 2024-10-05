@@ -1,4 +1,4 @@
-# 📚 ADA Python Course - Temario 🐍
+# 📚 Curso Intensivo de Python - ADA 🐍
 
 ¡Bienvenidas al curso de **Python** de ADA! 🎉 
 Durante este recorrido, exploraremos los conceptos fundamentales de la programación y aprenderemos a desarrollar soluciones con Python, uno de los lenguajes más versátiles y populares hoy en día. Cada módulo está diseñado para brindarte conocimientos prácticos y teóricos que te ayudarán a entender y aplicar Python de manera efectiva. ¡Prepárate para escribir mucho código y disfrutar el proceso! 🚀

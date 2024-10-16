@@ -1,0 +1,32 @@
+# Películas Mexicanas
+
+Nosotros los Nobles, Gary Alazraki, 2013, Comedia
+No Manches Frida, Nacho G. Velilla, 2016, Comedia
+Amarte Duele, Fernando Sariñana, 2002, Comedia
+Cásese Quien Pueda, Marco Polo Constandse, 2014, Comedia
+Ahí Está el Detalle, Juan Bustillo Oro, 1940, Comedia
+Roma, Alfonso Cuarón, 2018, Drama
+Amores Perros, Alejandro González Iñárritu, 2000, Drama
+El Infierno, Luis Estrada, 2010, Drama
+La Jaula de Oro, Diego Quemada-Diez, 2013, Drama
+Temporada de Patos, Fernando Eimbcke, 2004, Drama
+Como Agua Para Chocolate, Alfonso Arau, 1992, Romance
+Arráncame la Vida, Roberto Sneider, 2008, Romance
+A la Mala, Pedro Pablo Ibarra, 2015, Romance
+Soltera Codiciada, Bruno Ascenzo y Joanna Lombardi, 2018, Romance
+Te Juro que Yo No Fui, Joaquín Bissner, 2018, Romance
+Kilómetro 31, Rigoberto Castañeda, 2006, Terror
+Hasta el Viento Tiene Miedo, Carlos Enrique Taboada, 1968, Terror
+El Libro de Piedra, Carlos Enrique Taboada, 1969, Terror
+Somos lo que Hay, Jorge Michel Grau, 2010, Terror
+Belzebuth, Emilio Portes, 2017, Terror
+La Leyenda de la Nahuala, Ricardo Arnaiz, 2007, Animación
+Ana y Bruno, Carlos Carrera, 2017, Animación
+El Ángel en el Reloj, Miguel Ángel Uriegas, 2017, Animación
+Un Gallo con Muchos Huevos, Gabriel Riva Palacio Alatriste, 2015, Animación
+La Leyenda del Charro Negro, Alberto Rodríguez, 2018, Animación
+Bellas de Noche, María José Cuevas, 2016, Documental
+El Gran Acuífero Maya, Pablo Latapí, 2017, Documental
+Tempestad, Tatiana Huezo, 2016, Documental
+La Libertad del Diablo, Everardo González, 2017, Documental
+Llévate Mis Amores, Arturo González Villaseñor, 2014, Documental

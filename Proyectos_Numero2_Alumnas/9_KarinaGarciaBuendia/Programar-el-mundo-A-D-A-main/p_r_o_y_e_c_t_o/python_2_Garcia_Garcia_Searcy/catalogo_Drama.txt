@@ -1,0 +1,7 @@
+("La insensata", "2025", "Drama", "Franciso Marmolejo Rivas")
+("El insensato", "2026", "Comedia", "Karina García Buendía")
+("El padrastro", "2025", "Drama", "Marmo")
+("El teorema que no supe amar", "2027", "Tango", "Matías Meni")
+Esta, 2024, Romance, Ignacio López Franco
+La Brasileña, 2024, Romance, Ignacio López Franco
+("berni", "1998", "terror", "berni")

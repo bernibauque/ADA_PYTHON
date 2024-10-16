@@ -1,0 +1,7 @@
+("El padrino", "1972", "Crimen", "Francis Ford Coppola")
+("El Gran Dictador", "1940", "Comedia", "Charles Chaplin")
+("Cadena Perpetua", "1994", "Drama", "Frank Darabont")
+
+("La Lista de Schindler", "1993", "Drama", "Steven Spielberg")
+
+("Testigo de Cargo", "1957", "Drama", "Billy Wilder")
